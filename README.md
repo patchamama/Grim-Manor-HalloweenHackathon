@@ -8,7 +8,7 @@
 
 ## Deployment
 
-The project is deployed and can be accessed at [https://stephendawsondev.github.io/GrimManor](https://stephendawsondev.github.io/GrimManor).
+The project is deployed and can be accessed at [https://patchamama.github.io/Grim-Manor-HalloweenHackathon/](https://patchamama.github.io/Grim-Manor-HalloweenHackathon/)).
 
 ## Presentation 
 
