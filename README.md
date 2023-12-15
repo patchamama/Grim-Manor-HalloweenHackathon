@@ -10,6 +10,10 @@
 
 The project is deployed and can be accessed at [https://stephendawsondev.github.io/GrimManor](https://stephendawsondev.github.io/GrimManor).
 
+## Presentation 
+
+[Youtube Video Presentation](https://www.youtube.com/watch?v=sqGxsy73JyU)
+
 ## Criteria
 
 In this section, we will briefly discuss how our team addressed the applicable criteria:
@@ -105,9 +109,9 @@ We leveraged the browser APIs for locale storage and audio (for music/sounds).
 ## The Team
 
 <ul>
-<li><b>Samuel Anderson - Front-end development</b> <p> GitHub = samuelandersoncodes <a href="https://www.linkedin.com/in/samuel-anderson-codes/">LinkedIn</a></li>
-<li><b>Armando Urquiola Cabrera - Front-end development</b> <p> GitHub = patchamama <a href="https://www.linkedin.com/in/urquioladev/">LinkedIn</a></li>
-<li><b>Stephen Dawson - Scrum Master, Front-end development</b> <p> GitHub = stephendawsondev <a href="https://www.linkedin.com/in/sdstephendawson/">LinkedIn</a></li>
-<li><b>Emma Lamont - Storytelling, documentation, presentation</b> <p> GitHub = elamont174 <a href="https://www.linkedin.com/in/emma-lamont/">LinkedIn</a></li>
-<li><b>Jorgen Lovbakke - Front-end development</b> <p> GitHub = JL-14 <a href="https://www.linkedin.com/in/jorgen-lovbakke/">LinkedIn</a></li>
+<li><b>Samuel Anderson - Front-end development</b> <p> [GitHub](https://github.com/samuelandersoncodes) <a href="https://www.linkedin.com/in/samuel-anderson-codes/">LinkedIn</a></li>
+<li><b>Armando Urquiola Cabrera - Front-end development</b> <p> [GitHub](https://github.com/patchamama) <a href="https://www.linkedin.com/in/urquioladev/">LinkedIn</a></li>
+<li><b>Stephen Dawson - Scrum Master, Front-end development</b> <p> [GitHub](https://github.com/stephendawsondev) <a href="https://www.linkedin.com/in/sdstephendawson/">LinkedIn</a></li>
+<li><b>Emma Lamont - Storytelling, documentation, presentation</b> <p> [GitHub](https://github.com/elamont174) <a href="https://www.linkedin.com/in/emma-lamont/">LinkedIn</a></li>
+<li><b>Jorgen Lovbakke - Front-end development</b> <p> [GitHub](https://github.com/JL-14) <a href="https://www.linkedin.com/in/jorgen-lovbakke/">LinkedIn</a></li>
 </ul>
